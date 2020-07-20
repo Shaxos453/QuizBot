@@ -1,0 +1,14 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "My First Discord Bot",
+  "main": "bot.js",
+  "author": "Shyam",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "winston": "^3.3.3"
+  }
+}
